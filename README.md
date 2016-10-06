@@ -1,4 +1,6 @@
-# Each combination of polish letters (mixed with digits).
+# mixed-combination-of-polish-letters-chars
+
+> Each combination of polish letters (mixed with digits).
 
 # How to create that combination?
 
@@ -11,13 +13,10 @@ AĄBCĆDEĘFGHIJKLŁMNŃOÓPRSŚTUWYZŹŻ
 .,-?!+-=()[]{}
 ```
 
-* Run code in `building.js` ex. in **Google Chrome DevTools**
+* Run code in `build.js` ex. in **Google Chrome DevTools**
 
 But if you may don't want to generate you may read directory `pairs/`.
  
 # License
 
-[The MIT License][0]
-
-
-[0]: http://piecioshka.mit-license.org
+[The MIT License](http://piecioshka.mit-license.org) @ 2014
