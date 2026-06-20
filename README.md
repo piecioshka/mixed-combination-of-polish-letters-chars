@@ -19,4 +19,4 @@ But if you may don't want to generate you may read directory `pairs/`.
  
 # License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2014
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
